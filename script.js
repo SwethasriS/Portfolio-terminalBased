@@ -201,6 +201,7 @@ function printTechStackCmd() {
     <li>SQL</li>
     <li>C</li>
     <li>Git</li>
+    <li>Python</li>
     </ul>`;
     output.insertAdjacentHTML('beforeend', html);
 }
