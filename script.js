@@ -163,17 +163,10 @@ function printResumeCmd() {
 //update project details here.
 function printProjectsCmd() {
     const html = `<p class = "text"><ul type = "square">
-    <li><a href = "https://mapty-on-air.vercel.app/" target="_blank"> Mapty - A single application to log all your workouts. </a></li>
-    <li><a href = "https://github.com/Balaji-04/rapid-url-shortener" target="_blank"> RapidURL Shortener - An API based web application to shorten long links powered by node, express, and mongoose.</a></li>
-    <li><a href = "https://github.com/Balaji-04/rapid-mailer" target="_blank"> RapidMailer - Send BULK emails with ease. </a></li>
-    <li><a href = "https://github.com/Balaji-04/rapid-url-shortener-using-API" target="_blank"> RapidURL Shortener - Shorten long links using short.io API. </a></li>
-    <li><a href = "https://github.com/Balaji-04/node-artifacts-boutique" target="_blank"> Artifacts Boutique - Simple yet dynamic website using node.js </a></li>
-    <li><a href = "https://guess-the-number-game-three.vercel.app/" target="_blank">Retro Guess my number game</a></li> 
-    <li><a href = "https://retro-pig-game.vercel.app/" target="_blank">Retro Pig game</a></li>
-    <li><a href = "https://qr-code-component-using-html-css-lime.vercel.app/" target="_blank">QR Code Component - Frontend Mentor Challenge</a></li>
-    <li><a href = "https://nft-preview-card-frontend-mentor-sage.vercel.app/" target="_blank">NFT Prview Card Component - Frontend Mentor Challenge</a></li>
-    <li><a href = "https://newyearcountdown-rosy.vercel.app/" target="_blank">New Year Countdown Application</a></li>
-    <li><a href = "https://bmi-calculator-onair.vercel.app/" target="_blank"> BMI Calculator </a></li>
+    
+    <li><a href = "https://guess-the-number-flame-sigma.vercel.app/" target="_blank">Retro Guess my number game</a></li> 
+    <li><a href = "https://github.com/SwethasriS/WizardCam" target="_blank">MuggleCam: Unlock Your Inner Wizard</a></li> 
+
     <li>Terminal based portfolio - The one you're currently on!😉 </li>
     </ul></p>`;
     output.insertAdjacentHTML('beforeend', html);
