@@ -138,7 +138,7 @@ function openSkillrack() {
 function printAboutCmd() {
     const html = `<br /><div class = "container">
     <div class = "container-right">
-      <img class = "my-pic" src="balaji.jpeg" alt="my-image" />
+      <img class = "my-pic" src="swetha.png" alt="my-image" />
     </div>
     <div class = "container-left">
       <p class = "text"> I’m Swethasri,currently in my final year of Computer Science and Engineering at National Engineering College, Kovilpatti, with a strong CGPA of 8.93 up to the 7th semester. I'm also pursuing an Honours degree in Artificial Intelligence and Machine Learning, which aligns with my passion for AI and Full Stack Web Development.
