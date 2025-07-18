@@ -163,9 +163,10 @@ function printResumeCmd() {
 //update project details here.
 function printProjectsCmd() {
     const html = `<p class = "text"><ul type = "square">
-    
+    <li><a href = "    https://github.com/SwethasriS/Calorify---YOLO-Based-Food-Recognition-with-AI-Chatbot-and-Report-Summarizer
+" target="_blank">Calorify: Smart Food Scanner, Calorie Tracker, and Health Assistant</a></li> 
     <li><a href = "https://guess-the-number-flame-sigma.vercel.app/" target="_blank">Retro Guess my number game</a></li> 
-    <li><a href = "https://github.com/SwethasriS/WizardCam" target="_blank">MuggleCam: Unlock Your Inner Wizard</a></li> 
+    <li><a href = "https://github.com/SwethasriS/WizardCam" target="_blank">MuggleCam: Unlock Your Inner Wizard</a></li>
 
     <li>Terminal based portfolio - The one you're currently on!😉 </li>
     </ul></p>`;
