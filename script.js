@@ -143,7 +143,7 @@ function printAboutCmd() {
     <div class = "container-left">
       <p class = "text"> I’m Swethasri,currently in my final year of Computer Science and Engineering at National Engineering College, Kovilpatti, with a strong CGPA of 8.93 up to the 7th semester. I'm also pursuing an Honours degree in Artificial Intelligence and Machine Learning, which aligns with my passion for AI and Full Stack Web Development.
 
-I proudly serve as the Secretary of the Institution of Engineers (India) – IE(I) students' chapter and am an active volunteer in the National Service Scheme (NSS). I’ve also been actively involved in organizing and coordinating various technical and non-technical events in my college, which has enhanced my skills in planning, teamwork, and leadership.
+I proudly serve as the President of the Institution of Engineers (India) – IE(I) students' chapter and am an active volunteer in the National Service Scheme (NSS). I’ve also been actively involved in organizing and coordinating various technical and non-technical events in my college, which has enhanced my skills in planning, teamwork, and leadership.
 
 I'm a continuous learner, certified by NPTEL as an active and disciplined learner, which reflects my dedication to growth and academic excellence.
 
@@ -157,7 +157,7 @@ My journey blends technical expertise, leadership, and service, and I’m excite
 
 //update your resume
 function printResumeCmd() {
-    const html = `<br /><a href = "resume.pdf" download = "swethasri-cv" target = "_blank">swethasri-cv.pdf</a><br /><br />`;
+    const html = `<br /><a href = "resume.pdf" download = "swethasri_resume" target = "_blank">Swetha Sri_Resume.pdf</a><br /><br />`;
     output.insertAdjacentHTML('beforeend', html);
 }
 //update project details here.
